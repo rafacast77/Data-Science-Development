@@ -1,4 +1,4 @@
-# Laptops Price Prediction   :computer::chart:
+# Laptops Price Prediction   :computer::chart_with_upwards_trend:
 This project aimed to predict the price of a laptop based on the hardware attributes by training a linear regression model. This model could be used to know if a laptop is overpriced or at what price a laptop can be sold. The project required looking for a public dataset containing the details of laptops and their cost. The analysis implements the data science life cycle. Analysis report can be found in this repository.
 
 ## Technologies and techniques used for this project
