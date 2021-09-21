@@ -1,2 +1,11 @@
 # Data-Science-Development
-Studied data science concepts such as (1) data preparation methods, (2) Data exploration, summarisation, transformation and visualization techniques, (3) descriptive analytics (Cluster analysis), (4) Predictive analytics (Classification and regression analysis), (5) Advanced analytics (Deep Learning). Concepts where applied to a real world data problem which can be found in the git-hub repository of this project.
+The goal of this project was to predict the price of a laptop based on the hardware attributes by training a linear regression model. This model could be used to know if a laptop is overpriced or at what price a laptop can be sold. The project required looking for a public dataset containing the details of laptops and their price. The analysis implements the data science cycle:
+	
+	• Dataset Selection
+	• Exploratory Data Analysis
+	• Dataset Pre-processing and attribute Analysis
+	• Model training
+	• Model Evaluation
+Conclusions
+
+
