@@ -1,0 +1,2 @@
+# Data-Science-Development
+Studied data science concepts such as (1) data preparation methods, (2) Data exploration, summarisation, transformation and visualization techniques, (3) descriptive analytics (Cluster analysis), (4) Predictive analytics (Classification and regression analysis), (5) Advanced analytics (Deep Learning). Concepts where applied to a real world data problem which can be found in the git-hub repository of this project.
